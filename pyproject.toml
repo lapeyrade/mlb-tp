@@ -1,0 +1,29 @@
+[project]
+name = "mlb-tp"
+version = "0.1.0"
+requires-python = ">=3.13.18,<3.14"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "ipython>=9.18.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.5",
+    "pandas>=3.1.1",
+    "scikit-learn>=1.9.1",
+    "xgboost>=3.4.1",
+]
+
+[project.optional-dependencies]
+spark = [
+    "cjdk>=0.5.0",
+    "pyspark>=4.0,<4.2",
+]
+
+[dependency-groups]
+dev = [
+    "ruff==0.17.6",
+    "rumdl==0.3.5",
+    "ty==0.0.107",
+]
+
+[tool.uv]
+default-groups = []

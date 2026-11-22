@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="970" height="474" viewBox="0 0 970 474" role="img" aria-labelledby="title desc"><title id="title">Du lot à inspecter au modèle en production</title><desc id="desc">Cinq chapitres et huit travaux pratiques pour préparer, évaluer et déployer une règle d’inspection.</desc><rect width="970" height="474" rx="16" fill="#f3f7f8"/><g font-family="Arial, Helvetica, sans-serif">
+<text x="25" y="42" font-size="29" font-weight="700" fill="#18344a">Du lot à inspecter au modèle en production</text>
+<path d="M58 99v319" stroke="#85aaa9" stroke-width="4"/>
+<circle cx="58" cy="98" r="29" fill="#e0eeec" stroke="#a0bfbb"/><g transform="translate(35 75) scale(.85)" stroke="#176d63" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 34h11l6-19 8 30 8-22h13"/></g>
+<text x="105" y="92" font-size="13" font-weight="700" fill="#34655f">CHAPITRE 1</text>
+<text x="105" y="116" font-size="21" font-weight="700" fill="#18344a">Cadrer le problème</text>
+<text x="434" y="103" font-size="16" font-weight="700" fill="#15685f">TP 01</text>
+<text x="505" y="103" font-size="18" font-weight="400" fill="#18344a">Choisir la cible et les mesures disponibles</text>
+<path d="M105 138H939" stroke="#cedcdd"/>
+<circle cx="58" cy="178" r="29" fill="#e0eeec" stroke="#a0bfbb"/><g transform="translate(35 155) scale(.85)" stroke="#176d63" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M7 44V10m0 34h41M10 39q8-23 36-27"/><circle cx="25" cy="21" r="4" fill="#fff"/></g>
+<text x="105" y="172" font-size="13" font-weight="700" fill="#34655f">CHAPITRE 2</text>
+<text x="105" y="196" font-size="21" font-weight="700" fill="#18344a">Évaluer la décision</text>
+<text x="434" y="183" font-size="16" font-weight="700" fill="#15685f">TP 02</text>
+<text x="505" y="183" font-size="18" font-weight="400" fill="#18344a">Fixer un seuil selon le coût des erreurs</text>
+<path d="M105 218H939" stroke="#cedcdd"/>
+<circle cx="58" cy="258" r="29" fill="#e0eeec" stroke="#a0bfbb"/><g transform="translate(35 235) scale(.85)" stroke="#176d63" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M27 10v10M12 31V20h29v11"/><circle cx="27" cy="9" r="4"/><circle cx="12" cy="37" r="5"/><circle cx="41" cy="37" r="5"/></g>
+<text x="105" y="252" font-size="13" font-weight="700" fill="#34655f">CHAPITRE 3</text>
+<text x="105" y="276" font-size="21" font-weight="700" fill="#18344a">Comparer les modèles</text>
+<text x="434" y="249" font-size="16" font-weight="700" fill="#15685f">TP 03</text>
+<text x="505" y="249" font-size="18" font-weight="400" fill="#18344a">Comparer SVM et MLP sur la carte PCA</text>
+<text x="434" y="278" font-size="16" font-weight="700" fill="#15685f">TP 04</text>
+<text x="505" y="278" font-size="18" font-weight="400" fill="#18344a">Comparer arbre, forêt et XGBoost</text>
+<path d="M105 298H939" stroke="#cedcdd"/>
+<circle cx="58" cy="338" r="29" fill="#e0eeec" stroke="#a0bfbb"/><g transform="translate(35 315) scale(.85)" stroke="#176d63" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M3 39c12 0 13-26 23-26s10 26 24 26M3 43h47"/></g>
+<text x="105" y="332" font-size="13" font-weight="700" fill="#34655f">CHAPITRE 4</text>
+<text x="105" y="356" font-size="21" font-weight="700" fill="#18344a">Raisonner avec l’incertitude</text>
+<text x="434" y="329" font-size="16" font-weight="700" fill="#15685f">TP 05</text>
+<text x="505" y="329" font-size="18" font-weight="400" fill="#18344a">Actualiser le risque et figer le modèle</text>
+<text x="434" y="358" font-size="16" font-weight="700" fill="#15685f">TP 06</text>
+<text x="505" y="358" font-size="18" font-weight="400" fill="#18344a">Suivre un état caché malgré le bruit</text>
+<path d="M105 378H939" stroke="#cedcdd"/>
+<circle cx="58" cy="418" r="29" fill="#e0eeec" stroke="#a0bfbb"/><g transform="translate(35 395) scale(.85)" stroke="#176d63" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11h13m-13 8h13m-13 8h13m3-8h8v12h8"/><rect x="35" y="24" width="16" height="14" rx="2"/></g>
+<text x="105" y="412" font-size="13" font-weight="700" fill="#34655f">CHAPITRE 5</text>
+<text x="105" y="436" font-size="21" font-weight="700" fill="#18344a">Passer en production</text>
+<text x="434" y="409" font-size="16" font-weight="700" fill="#15685f">TP 07</text>
+<text x="505" y="409" font-size="18" font-weight="400" fill="#18344a">Déployer avec Spark en batch et en flux</text>
+<text x="434" y="438" font-size="16" font-weight="700" fill="#15685f">TP 08</text>
+<text x="505" y="438" font-size="18" font-weight="400" fill="#18344a">Surveiller et évaluer sur les lots réservés</text>
+</g></svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="291.939273pt" height="144.328125pt" viewBox="0 0 291.939273 144.328125" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T23:33:13.501806</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 144.328125 
+L 291.939273 144.328125 
+L 291.939273 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g clip-path="url(#pe88b990c1b)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAJ0AAACdCAYAAACuJnrWAAACi0lEQVR4nO3dsU1cURBA0WfLATEUgESCKIUIEgJa2BqIKIGAkAwQJVEEEiIiW4seRtcfc04Bow2uJnrz99d+v9+vjXp5eRmdd3d3t7bq/Px8dN7Nzc3aqt//+gfw84iOnOjIiY6c6MiJjpzoyImOnOjIiY6c6MiJjpzoyImOnOjIiY6c6MiJjpzoyP1ZG/b29jY67+HhYWzWx8fHmnR9fb22avrewqYjJzpyoiMnOnKiIyc6cqIjJzpyoiMnOnKiIyc6cqIjJzpyoiMnOnKiIyc6cpt+rr7b7dZWfX5+js67uLgYnXd4eLi2yqYjJzpyoiMnOnKiIyc6cqIjJzpyoiMnOnKiIyc6cqIjJzpyoiMnOnKiIyc6cqIj92u/3+/XDzF517DlT/B/eX5+XlMODg7WJJuOnOjIiY6c6MiJjpzoyImOnOjIiY6c6MiJjpzoyImOnOjIiY6c6MiJjpzoyG36k/7v7++j805OTsZmXV5erkn39/ej86afmE+y6ciJjpzoyImOnOjIiY6c6MiJjpzoyImOnOjIiY6c6MiJjpzoyImOnOjIiY6c6Pj+NxKTdw3T7/zPzs7GZr2+vq6fctMwzaYjJzpyoiMnOnKiQ3T8/2w6cqIjJzpyoiMnOnKiIyc6cqIjJzpyoiMnOnKi4/s/V396ehqb9fj4uCbd3t6Ozbq6ulqTXoefv5+enq6tsunIiY6c6MiJjpzoyImOnOjIiY6c6MiJjpzoyImOnOjIiY6c6MiJjpzoyImOnOj4/jcSu91ubNbR0dGaNHnXMPn3AF+Oj4/XT2HTkRMdOdGREx050ZETHTnRkRMdOdGREx050ZETHTnRkRMdOdGREx050ZETHTnRsWp/AeDAPTYn/tgIAAAAAElFTkSuQmCC" id="image36906abe54" transform="scale(1 -1) translate(0 -113.04)" x="7.2" y="-24.088125" width="113.04" height="113.04"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="63.6" y="18.328125" transform="rotate(-0 63.6 18.328125)">Étiquette : 3</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g clip-path="url(#p01dcf61f42)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAJwAAACdCAYAAABB5BHoAAACpUlEQVR4nO3coVFkQRhG0d4tBAIBaDwYFKOIYrDIkUhiwGKREAJkgcGhEIRAIcHNprCi69Zj95wAPnXrV/3er+12ux0Ltdlspu49PDxM2zo4OBgzrdfraVt3d3djpt3d3Wlbv6ctwV8QHCnBkRIcKcGREhwpwZESHCnBkRIcKcGREhwpwZESHCnBkRIcKcGREhwpwZHamTn2/f09c248PT1N3fv6+pq29fHxMWY6OjqatrVarcZMV1dX07ZcOFKCIyU4UoIjJThSgiMlOFKCIyU4UoIjJThSgiMlOFKCIyU4UoIjJThSguPnPjGf/ez68/Nz6t79/f20rff39zHT+fn5tK3Ly8uxVC4cKcGREhwpwZESHCnBkRIcKcGREhwpwZESHCnBkRIcKcGREhwpwZESHCnBkRIcqV/b7XY7Furt7W3q3snJyViqz4nfb+zv74+lcuFICY6U4EgJjpTgSAmOlOBICY6U4EgJjpTgSAmOlOBICY6U4EgJjpTgSAmOn/vb/Nn29vbGUq3X66l7q9Vq2tbLy8uYaeaTdReOlOBICY6U4EgJjpTgSAmOlOBICY6U4EgJjpTgSAmOlOBICY6U4EgJjpTgSAmO1KJ/m39zc7PYX9Pf3t6OmQ4PD6dtPT8/j5mOj4+nbblwpARHSnCkBEdKcKQEh+D4d7lwpARHSnCkBEdKcKQER0pwpARHSnCkBEdKcKQW/cT84uJi6t7r6+tYqtPT02lbj4+PY6lcOFKCIyU4UoIjJThSgiMlOFKCIyU4UoIjJThSgiMlOFKCIyU4UoIjJThSgiMlOFI7Y8HOzs4W+03D9fX1mGmz2Yz/gQtHSnCkBEdKcKQER0pwpARHSnCkBEdKcKQER0pwpARHSnCkBEdKcKQER0pwpATHKP0B1Y5OlG041MwAAAAASUVORK5CYII=" id="image60e5ec5437" transform="scale(1 -1) translate(0 -113.04)" x="172.08" y="-24.088125" width="112.32" height="113.04"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle" x="228.339273" y="18.328125" transform="rotate(-0 228.339273 18.328125)">Étiquette : 8</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe88b990c1b">
+   <rect x="7.2" y="24.328125" width="112.8" height="112.8"/>
+  </clipPath>
+  <clipPath id="p01dcf61f42">
+   <rect x="171.939273" y="24.328125" width="112.8" height="112.8"/>
+  </clipPath>
+ </defs>
+</svg>

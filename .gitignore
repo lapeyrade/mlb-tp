@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ruff_cache/
+.rumdl_cache/
+.ty_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+/AGENTS.md
+/artefacts/tp05/
+/artefacts/tp07/

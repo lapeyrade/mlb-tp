@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="486.18pt" height="142.236pt" viewBox="0 0 486.18 142.236" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T14:43:51.447041</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 142.236 
+L 486.18 142.236 
+L 486.18 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 15.22512 63.37026 
+L 126.37872 63.37026 
+Q 128.69442 63.37026 128.69442 60.39036 
+L 128.69442 27.01548 
+Q 128.69442 24.03558 126.37872 24.03558 
+L 15.22512 24.03558 
+Q 12.90942 24.03558 12.90942 27.01548 
+L 12.90942 60.39036 
+Q 12.90942 63.37026 15.22512 63.37026 
+z
+" clip-path="url(#p8f51f29382)" style="fill: #e3f1ef"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 164.3562 63.37026 
+L 307.9296 63.37026 
+Q 310.2453 63.37026 310.2453 60.39036 
+L 310.2453 27.01548 
+Q 310.2453 24.03558 307.9296 24.03558 
+L 164.3562 24.03558 
+Q 162.0405 24.03558 162.0405 27.01548 
+L 162.0405 60.39036 
+Q 162.0405 63.37026 164.3562 63.37026 
+z
+" clip-path="url(#p8f51f29382)" style="fill: #e3f1ef"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 342.6651 63.37026 
+L 471.41802 63.37026 
+Q 473.73372 63.37026 473.73372 60.39036 
+L 473.73372 27.01548 
+Q 473.73372 24.03558 471.41802 24.03558 
+L 342.6651 24.03558 
+Q 340.3494 24.03558 340.3494 27.01548 
+L 340.3494 60.39036 
+Q 340.3494 63.37026 342.6651 63.37026 
+z
+" clip-path="url(#p8f51f29382)" style="fill: #e3f1ef"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 15.22512 122.96826 
+L 126.37872 122.96826 
+Q 128.69442 122.96826 128.69442 119.98836 
+L 128.69442 86.61348 
+Q 128.69442 83.63358 126.37872 83.63358 
+L 15.22512 83.63358 
+Q 12.90942 83.63358 12.90942 86.61348 
+L 12.90942 119.98836 
+Q 12.90942 122.96826 15.22512 122.96826 
+z
+" clip-path="url(#p8f51f29382)" style="fill: #e3f1ef"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 164.3562 122.96826 
+L 307.9296 122.96826 
+Q 310.2453 122.96826 310.2453 119.98836 
+L 310.2453 86.61348 
+Q 310.2453 83.63358 307.9296 83.63358 
+L 164.3562 83.63358 
+Q 162.0405 83.63358 162.0405 86.61348 
+L 162.0405 119.98836 
+Q 162.0405 122.96826 164.3562 122.96826 
+z
+" clip-path="url(#p8f51f29382)" style="fill: #e3f1ef"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 342.6651 122.96826 
+L 471.41802 122.96826 
+Q 473.73372 122.96826 473.73372 119.98836 
+L 473.73372 86.61348 
+Q 473.73372 83.63358 471.41802 83.63358 
+L 342.6651 83.63358 
+Q 340.3494 83.63358 340.3494 86.61348 
+L 340.3494 119.98836 
+Q 340.3494 122.96826 342.6651 122.96826 
+z
+" clip-path="url(#p8f51f29382)" style="fill: #e3f1ef"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #183b50" x="70.80192" y="46.780772" transform="rotate(-0 70.80192 46.780772)">Lots passés</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #183b50" x="236.1429" y="46.560772" transform="rotate(-0 236.1429 46.560772)">Mesures + verdicts</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #183b50" x="407.04156" y="46.780772" transform="rotate(-0 407.04156 46.780772)">Ajuster la règle</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 133.471399 43.70292 
+Q 146.060913 43.70292 157.532393 43.70292 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+    <path d="M 153.132393 41.50292 
+L 157.532393 43.70292 
+L 153.132393 45.90292 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 314.558744 43.70292 
+Q 325.526962 43.70292 335.377146 43.70292 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+    <path d="M 330.977146 41.50292 
+L 335.377146 43.70292 
+L 330.977146 45.90292 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #183b50" x="70.80192" y="106.158772" transform="rotate(-0 70.80192 106.158772)">Nouveau lot</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #183b50" x="236.1429" y="106.378772" transform="rotate(-0 236.1429 106.378772)">Mesures à la sortie</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif; text-anchor: middle; fill: #183b50" x="407.04156" y="106.158772" transform="rotate(-0 407.04156 106.158772)">Calculer un score</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 133.471399 103.30092 
+Q 146.060913 103.30092 157.532393 103.30092 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+    <path d="M 153.132393 101.10092 
+L 157.532393 103.30092 
+L 153.132393 105.50092 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 314.558744 103.30092 
+Q 325.526962 103.30092 335.377146 103.30092 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+    <path d="M 330.977146 101.10092 
+L 335.377146 103.30092 
+L 330.977146 105.50092 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 407.5047 64.177074 
+Q 407.5047 73.501903 407.5047 81.708698 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+    <path d="M 409.7047 77.308698 
+L 407.5047 81.708698 
+L 405.3047 77.308698 
+" style="fill: none; stroke: #183b50; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8f51f29382">
+   <rect x="11.52" y="11.52" width="463.14" height="119.196"/>
+  </clipPath>
+ </defs>
+</svg>

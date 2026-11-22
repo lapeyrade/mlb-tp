@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="594.47952pt" height="133.67952pt" viewBox="0 0 594.47952 133.67952" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T15:06:26.825986</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 133.67952 
+L 594.47952 133.67952 
+L 594.47952 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <g id="patch_2">
+     <path d="M 67.733512 87.412768 
+L 150.546325 87.412768 
+Q 157.696325 87.412768 157.696325 80.262768 
+L 157.696325 53.416752 
+Q 157.696325 46.266752 150.546325 46.266752 
+L 67.733512 46.266752 
+Q 60.583512 46.266752 60.583512 53.416752 
+L 60.583512 80.262768 
+Q 60.583512 87.412768 67.733512 87.412768 
+z
+" style="fill: #e1f0ed; stroke: #7e9b99; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(81.98109 62.876108)">Validation</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(67.733512 76.519115)">modèle + seuil</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 176.688027 66.83976 
+Q 204.612884 66.83976 231.419706 66.83976 
+" style="fill: none; stroke: #274b70; stroke-linecap: round"/>
+    <path d="M 227.019706 64.63976 
+L 231.419706 66.83976 
+L 227.019706 69.03976 
+" style="fill: none; stroke: #274b70; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <g id="patch_4">
+     <path d="M 250.50351 87.632768 
+L 343.97601 87.632768 
+Q 351.12601 87.632768 351.12601 80.482768 
+L 351.12601 53.196752 
+Q 351.12601 46.046752 343.97601 46.046752 
+L 250.50351 46.046752 
+Q 243.35351 46.046752 243.35351 53.196752 
+L 243.35351 80.482768 
+Q 243.35351 87.632768 250.50351 87.632768 
+z
+" style="fill: #e1f0ed; stroke: #7e9b99; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(250.50351 63.096108)">Fichier versionné</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(253.385854 76.739115)">pipeline + règle</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 364.787869 66.83976 
+Q 392.712725 66.83976 419.519548 66.83976 
+" style="fill: none; stroke: #274b70; stroke-linecap: round"/>
+    <path d="M 415.119548 64.63976 
+L 419.519548 66.83976 
+L 415.119548 69.03976 
+" style="fill: none; stroke: #274b70; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <g id="patch_6">
+     <path d="M 433.122258 87.412768 
+L 537.556945 87.412768 
+Q 544.706945 87.412768 544.706945 80.262768 
+L 544.706945 53.416752 
+Q 544.706945 46.266752 537.556945 46.266752 
+L 433.122258 46.266752 
+Q 425.972258 46.266752 425.972258 53.416752 
+L 425.972258 80.262768 
+Q 425.972258 87.412768 433.122258 87.412768 
+z
+" style="fill: #e1f0ed; stroke: #7e9b99; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(434.584914 62.876108)">Rejeu des 240 lots</text>
+    <text style="font-size: 11px; font-family: 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Arial', 'Helvetica', 'Avant Garde', sans-serif" transform="translate(433.122258 76.519115)">scores et décisions</text>
+   </g>
+  </g>
+ </g>
+</svg>
