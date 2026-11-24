@@ -70,7 +70,17 @@ Ouvrez les données de `donnees/tp08/` seulement à l’étape d’évaluation f
 
 ## Récupérer le dépôt avec Git
 
-Utilisez le compte GitHub auquel l’accès au dépôt privé a été accordé.
+Sous Windows, ouvrez PowerShell et tapez `git --version`. Si la commande
+est introuvable, installez Git avec WinGet :
+
+```powershell
+winget install --id Git.Git --exact --source winget
+```
+
+Après l’installation, fermez et rouvrez PowerShell, puis vérifiez que
+`git --version` affiche la version installée.
+
+Sur Windows, macOS ou Linux, clonez le dépôt public puis ouvrez son dossier :
 
 ```sh
 git clone https://github.com/lapeyrade/mlb-tp.git
