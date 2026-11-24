@@ -93,7 +93,7 @@ cd mlb-tp
    le dossier `mlb-tp` que Git vient de créer.
 2. Ouvrez **Terminal > Nouveau terminal**. Tapez `uv --version`.
    Si une version s’affiche, passez directement à l’étape suivante.
-   Sinon, sur Windows, lancez `winget install --id=astral-sh.uv -e`.
+   Sinon, sur Windows, lancez `winget install --id astral-sh.uv --exact --source winget`.
    Sur macOS ou Linux, lancez `curl -LsSf https://astral.sh/uv/install.sh | sh`.
    Fermez et rouvrez VS Code, puis vérifiez à nouveau avec `uv --version`.
 3. Dans le terminal, exécutez les deux lignes suivantes.
