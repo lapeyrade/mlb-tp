@@ -374,6 +374,23 @@ wheels = [
 ]
 
 [[package]]
+name = "lazypredict"
+version = "0.4.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "click" },
+    { name = "joblib" },
+    { name = "numpy" },
+    { name = "pandas" },
+    { name = "scikit-learn" },
+    { name = "tqdm" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/27/6f/4e64ff47117c2a667896fb13cc9f9769e45faeb0e8a1073076dc946ae8ea/lazypredict-0.4.0.tar.gz", hash = "sha256:b64ac2bffd027f5bb80b0fc57924a8c9ac1c8f5ae6970d534a016852bc46e024", size = 149457, upload-time = "2026-10-31T01:38:24.915Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/33/0c/f707da8e6aaa605405f6e6723087c3399cb2635461868bcfec9eecd1120b/lazypredict-0.4.0-py3-none-any.whl", hash = "sha256:afd2a694e5d7acfb054e7cbf6f62ad87399391d9c8db54b39ee416d5a189249b", size = 88191, upload-time = "2026-10-31T01:38:23.525Z" },
+]
+
+[[package]]
 name = "matplotlib"
 version = "3.11.2"
 source = { registry = "https://pypi.org/simple" }
@@ -419,6 +436,7 @@ default-groups = []
 dependencies = [
     { name = "ipykernel" },
     { name = "ipython" },
+    { name = "lazypredict" },
     { name = "matplotlib" },
     { name = "numpy" },
     { name = "pandas" },
@@ -444,6 +462,7 @@ requires-dist = [
     { name = "cjdk", marker = "extra == 'spark'", specifier = ">=0.5.0" },
     { name = "ipykernel", specifier = ">=7.4.0" },
     { name = "ipython", specifier = ">=9.18.1" },
+    { name = "lazypredict", specifier = "==0.4.0" },
     { name = "matplotlib", specifier = ">=3.11.2" },
     { name = "numpy", specifier = ">=2.5.5" },
     { name = "pandas", specifier = ">=3.1.1" },
@@ -883,6 +902,18 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/65/df/0574c4479c565d9233def796afc9179fa840f41f8c240f740609f746da67/tornado-6.6.1-cp311-abi3-win32.whl", hash = "sha256:0f0f596a0dab6826aa21d103c7bc242e3fb7cfc99c5c3d44a35ba8c83abbdca4", size = 535565, upload-time = "2026-11-09T21:08:38.518Z" },
     { url = "https://files.pythonhosted.org/packages/36/57/35439a779582e3b19c98e799b6a41519fb3bdaa3a21b7a94ce4dd7b3b732/tornado-6.6.1-cp311-abi3-win_amd64.whl", hash = "sha256:5cb82ca38596e1350fceaf994f287847f82f7b8436380d36ba0937a03107d0ee", size = 535806, upload-time = "2026-11-09T21:08:39.892Z" },
     { url = "https://files.pythonhosted.org/packages/89/b8/2cb42845af01ea7e70ac23e6f6fe2f26b9b158bce186c6991c057c9abe1d/tornado-6.6.1-cp311-abi3-win_arm64.whl", hash = "sha256:58d2f47e7b54fded3407dbbbe4e59d29ca627f85bf6c0f21f0b151c6c7fc9c53", size = 535825, upload-time = "2026-11-09T21:08:41.339Z" },
+]
+
+[[package]]
+name = "tqdm"
+version = "4.70.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "colorama", marker = "sys_platform == 'win32'" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/0d/ea/b2a5bd54b28a324dae8211928b2d730b6547500342c7e6c6dea08bd0a485/tqdm-4.70.1.tar.gz", hash = "sha256:cefd0eca11b2a37a3aee776544d4f4ae913f02688135b5556b8788dfa474afc4", size = 171846, upload-time = "2026-09-11T07:25:16.601Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/a7/03/921a3d3c75785aca9ebfbfcabfbc3a1be12e2ab5265deb026d55a5a3f83e/tqdm-4.70.1-py3-none-any.whl", hash = "sha256:c293e525e6fef9c20e8728fd4612df02a0aa31bb5fe91ecd93e123b1b7bffa73", size = 80199, upload-time = "2026-09-11T07:25:14.599Z" },
 ]
 
 [[package]]
