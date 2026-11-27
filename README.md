@@ -48,9 +48,9 @@ mission est de déterminer ce que l’équipe pouvait savoir à la sortie de la
 presse. Vous construirez ensuite une règle de priorité et la suivrez sur les
 nouveaux lots. La décision de libérer un lot reste du ressort de la qualité.
 
-## Parcours des huit TP
+## Parcours des neuf TP
 
-Chaque TP correspond à une partie du support MLB. Dans le TP 03, par exemple,
+Chacun des huit premiers TP correspond à une partie du support MLB. Dans le TP 03, par exemple,
 les repères **Atelier 3.1** et **Atelier 3.2** indiquent où commencer et reprendre.
 Vous retrouverez les mêmes repères dans le corrigé.
 
@@ -64,7 +64,7 @@ Vous retrouverez les mêmes repères dans le corrigé.
 | 4. Les modèles et apprentissages bayésiens | **[TP 06. Une vibration forte suffit-elle à faire vérifier la presse ?](TP06_derive_de_ligne.ipynb)** ([corrigé](corrections/TP06_derive_de_ligne.ipynb)) | Suivre l’état caché de la presse à partir de vibrations bruitées. Vérifier quels épisodes déclenchent une alerte et avec quel retard. Estimer une vibration entre deux relevés par processus gaussien. |
 | 5. Machine learning en production | **[TP 07. Obtient-on la même décision en batch et en streaming ?](TP07_pipeline_spark.ipynb)** ([corrigé](corrections/TP07_pipeline_spark.ipynb)) | Sauvegarder un pipeline Spark MLlib pour le TP 08 et vérifier que le batch et le streaming produisent les mêmes décisions. |
 | 5. Machine learning en production | **[TP 08. Peut-on recommander la mise en service ?](TP08_architecture_surveillance_et_evaluation.ipynb)** ([corrigé](corrections/TP08_architecture_surveillance_et_evaluation.ipynb)) | Recharger les versions des TP 05 et 07, comparer leur coût et leur charge sur le test réservé et recommander une architecture avec des conditions de suspension. Comparer VM locale et service Spark managé. |
-| Récapitulatif transversal | **[Titanic. Construire un pipeline de classification complet](Recap_pipeline_ML_Titanic.ipynb)** ([corrigé](corrections/Recap_pipeline_ML_Titanic.ipynb)) | Réserver le test par billet, explorer et préparer les données, comparer cinq classifieurs, régler une forêt par grille et recherche aléatoire, évaluer et recharger le pipeline. |
+| Récapitulatif transversal | **[TP 09. Titanic. Construire un pipeline de classification complet](TP09_pipeline_ML_Titanic.ipynb)** ([corrigé](corrections/TP09_pipeline_ML_Titanic.ipynb)) | Réserver le test par billet, explorer et préparer les données, comparer cinq classifieurs, régler une forêt par grille et recherche aléatoire, évaluer et recharger le pipeline. |
 
 Conservez le dossier `artefacts/` créé sur votre poste aux TP 05 et 07. Le TP 08 recharge ces deux versions.
 Ouvrez les données de `donnees/tp08/` seulement à l’étape d’évaluation finale.
